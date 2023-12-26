@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManishLapsusNext
-- 👀 I’m interested in design and development...
+- 👀 I’m interested in technology, be it mindblowing like AI or simple like creative button animation...
 - 📫 manish@lapsusnext.com
 
 <!---
