@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManishLapsusNext
+- 👋 Hi, I’m @Manish
 - 👀 I’m interested in technology, be it mindblowing like AI or simple like creative button animation...
 - 📫 manish@lapsusnext.com
 
